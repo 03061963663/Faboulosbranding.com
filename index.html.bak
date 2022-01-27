@@ -29,7 +29,15 @@ TemplateMo 571 Hexashop
 https://templatemo.com/tm-571-hexashop
 
 -->
-G-F3E7V64ZM2
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3E7V64ZM2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F3E7V64ZM2');
+</script>
     </head>
     
     <body>
@@ -64,10 +72,46 @@ G-F3E7V64ZM2
                             <li class="scroll-to-section"><a href="#kids">Kid's</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
-                                <ul>
+                                <ul> 
+								<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3E7V64ZM2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F3E7V64ZM2');
+</script>
                                     <li><a href="about.html">About Us</a></li>
+									<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3E7V64ZM2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F3E7V64ZM2');
+</script>
                                     <li><a href="products.html">Products</a></li>
+									<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3E7V64ZM2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F3E7V64ZM2');
+</script>
                                     <li><a href="single-product.html">Single Product</a></li>
+									<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3E7V64ZM2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F3E7V64ZM2');
+</script>
                                     <li><a href="contact.html">Contact Us</a></li>
                                 </ul>
                             </li>
